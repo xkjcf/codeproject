@@ -1,1 +1,7 @@
-*/Makefile
+QtProject/*/Makefile
+QtProject/*/Makefile.debug
+QtProject/*/Makefile.release
+QtProject/*/debug
+QtProject/*/release
+QtProject/*/*.pro
+QtProject/*/ui_*.h
